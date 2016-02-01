@@ -1,7 +1,7 @@
 /**
 * Channel.js
 *
-* @description :: TODO: You might write a short summary of how this model works and what it represents here.
+* @description :: Data model for channels stored in the database.
 * @docs        :: http://sailsjs.org/#!documentation/models
 */
 
